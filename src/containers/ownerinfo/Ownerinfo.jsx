@@ -10,7 +10,6 @@ const Ownerinfo = () => {
                     <img src={man} alt="man" />
                 </div>
             <div className="quicarent__owner-content">
-                <h1 className="gradient__text"></h1>
                 <div className="app-container">
                 <table>
                     <thead>

@@ -7,7 +7,6 @@ const Header = () => {
     return (
         <div className="quicarent__header section__padding" id="home">
             <div className="quicarent__header-content">
-                <h1 className="gradient__text"></h1>
                 <div className="app-container">
                 <table>
                     <thead>
