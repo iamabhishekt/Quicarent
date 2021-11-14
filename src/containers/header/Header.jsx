@@ -1,7 +1,7 @@
 import React from 'react';
 import './header.css';
 import ford1 from '../../assets/ford1.png';
-import lamborghini1 from '../../assets/lamborghini1.png';
+//import lamborghini1 from '../../assets/lamborghini1.png';
 
 const Header = () => {
     return (

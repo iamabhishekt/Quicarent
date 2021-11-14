@@ -1,6 +1,6 @@
 import React from 'react';
 import './maps.css';
-import * as atlas from 'azure-maps-control';
+//import * as atlas from 'azure-maps-control';
 
 const Maps = () => {
     return (
