@@ -1,7 +1,7 @@
 import React from 'react';
 
-import { Footer, Blog, Possibility,Ownerinfo, Features, Maps, Header} from './containers';
-import { CTA, Navbar} from './components'; 
+import { Ownerinfo, Maps, Header} from './containers';
+import { Navbar} from './components'; 
 import './App.css';
 
 const app = () => {
