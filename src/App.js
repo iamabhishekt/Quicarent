@@ -4,8 +4,7 @@ import { Ownerinfo, Maps, Header} from './containers';
 import { Navbar} from './components'; 
 import './App.css';
 
-const app = () => {
-    return (
+const app = () => (
         <div className="App">
             <div className="gradient__bg">
                 <Navbar />
@@ -14,7 +13,6 @@ const app = () => {
                 <Maps />
             </div>
         </div>
-    )
-}
+)
 
 export default app
